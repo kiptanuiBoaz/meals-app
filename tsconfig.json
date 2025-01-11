@@ -12,6 +12,6 @@
     "**/*.ts",
     "**/*.jsx",
     "**/*.tsx",
-     "**/*.js",
+     "**/*.js", "components/MealDetails",
   ]
 }
